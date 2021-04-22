@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-18T16:49:17Z" name="Default suite" finished-at="2021-02-18T16:49:17Z" duration-ms="464">
+    <groups>
+    </groups>
+    <test started-at="2021-02-18T16:49:17Z" name="Default test" finished-at="2021-02-18T16:49:17Z" duration-ms="464">
+      <class name="com.qa.hubspot.pages.Testngclass">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="beforeSuite" finished-at="2021-02-18T22:19:17Z" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="beforeTest" finished-at="2021-02-18T22:19:17Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="beforeClass" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="beforeMethod" finished-at="2021-02-18T22:19:17Z" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase1()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="testCase1" finished-at="2021-02-18T22:19:17Z" duration-ms="387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="afterMethod" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="beforeMethod" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase2()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="testCase2" finished-at="2021-02-18T22:19:17Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="afterMethod" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="afterClass" finished-at="2021-02-18T22:19:17Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="afterTest" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.qa.hubspot.pages.Testngclass@6f36c2f0]" started-at="2021-02-18T22:19:17Z" name="afterSuite" finished-at="2021-02-18T22:19:17Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.qa.hubspot.pages.Testngclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
